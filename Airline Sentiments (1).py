@@ -31,7 +31,7 @@ from xgboost import XGBClassifier
 from sklearn.neural_network import MLPClassifier
 
 #%% import and describe the data
-tweets=pd.read_csv("C:/Users/zamey/Documents/DataSets/Tweets.csv")
+tweets=pd.read_csv("C:/Users/Documents/DataSets/Tweets.csv")
 print(tweets.head())
 tweets.info()
 
