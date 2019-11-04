@@ -1,1 +1,1 @@
-twitterscraper "Trump or Clinton" --limit 100 --output=tweets.json
+twitterscraper "United Airlines OR American Airlines OR Southwest" --output=tweets.json
